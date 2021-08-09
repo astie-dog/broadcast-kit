@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'pixel';
+	src: url('../fonts/PixelMplus12-Regular.ttf')  format('truetype');
+}
+.loading {
+  color: #fff;
+  font-family: 'pixel';
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  align-items: flex-end;
+}
+.loading-text {
+  font-size: 96px;
+  margin-right: 24px;
+  text-align: left;
+}
+.loading-image {
+
+}
+.loading-image img {
+  display: block;
+  width: 125px;
+  height: 125px;
+}
