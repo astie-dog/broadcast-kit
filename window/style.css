@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  color: #333;
+  padding: 20px;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Segoe UI';
+}
+#window {
+  width: 100%;
+  height: 100%;
+  border-image-slice: 34 16 16 16 fill;
+  border-image-width: 34px 16px 16px 16px;
+  border-image-repeat: stretch stretch;
+  border-image-source: url("./window-win.png");
+  border-style: solid;
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.6);
+  border-radius: 14px;
+}
+#title {
+  text-align: center;
+  line-height: 26px;
+  font-size: 20px;
+  font-weight: bold;
+}

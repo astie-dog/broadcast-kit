@@ -1,0 +1,8980 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+div {
+  transform-style: preserve-3d;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 600px;
+}
+
+.container {
+  transform: rotate(30deg);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(1) {
+  animation: rotate linear infinite;
+  animation-delay: -45339ms;
+  animation-duration: 41137ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(2) {
+  animation: rotate linear infinite;
+  animation-delay: -42916ms;
+  animation-duration: 22611ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(3) {
+  animation: rotate linear infinite;
+  animation-delay: -47070ms;
+  animation-duration: 38487ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(4) {
+  animation: rotate linear infinite;
+  animation-delay: -48816ms;
+  animation-duration: 58196ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(5) {
+  animation: rotate linear infinite;
+  animation-delay: -40717ms;
+  animation-duration: 30087ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(6) {
+  animation: rotate linear infinite;
+  animation-delay: -42919ms;
+  animation-duration: 51672ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(7) {
+  animation: rotate linear infinite;
+  animation-delay: -45018ms;
+  animation-duration: 21228ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(8) {
+  animation: rotate linear infinite;
+  animation-delay: -48476ms;
+  animation-duration: 66533ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(9) {
+  animation: rotate linear infinite;
+  animation-delay: -43070ms;
+  animation-duration: 51214ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(10) {
+  animation: rotate linear infinite;
+  animation-delay: -47522ms;
+  animation-duration: 25373ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(11) {
+  animation: rotate linear infinite;
+  animation-delay: -48488ms;
+  animation-duration: 56961ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(12) {
+  animation: rotate linear infinite;
+  animation-delay: -40796ms;
+  animation-duration: 46558ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(13) {
+  animation: rotate linear infinite;
+  animation-delay: -41144ms;
+  animation-duration: 59937ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(14) {
+  animation: rotate linear infinite;
+  animation-delay: -43275ms;
+  animation-duration: 22441ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(15) {
+  animation: rotate linear infinite;
+  animation-delay: -45101ms;
+  animation-duration: 36754ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(16) {
+  animation: rotate linear infinite;
+  animation-delay: -49281ms;
+  animation-duration: 23658ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(17) {
+  animation: rotate linear infinite;
+  animation-delay: -46559ms;
+  animation-duration: 22192ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(18) {
+  animation: rotate linear infinite;
+  animation-delay: -49596ms;
+  animation-duration: 30955ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(19) {
+  animation: rotate linear infinite;
+  animation-delay: -44845ms;
+  animation-duration: 65100ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(20) {
+  animation: rotate linear infinite;
+  animation-delay: -42792ms;
+  animation-duration: 27002ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(21) {
+  animation: rotate linear infinite;
+  animation-delay: -41363ms;
+  animation-duration: 23485ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(22) {
+  animation: rotate linear infinite;
+  animation-delay: -40608ms;
+  animation-duration: 37168ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(23) {
+  animation: rotate linear infinite;
+  animation-delay: -45316ms;
+  animation-duration: 41008ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(24) {
+  animation: rotate linear infinite;
+  animation-delay: -49738ms;
+  animation-duration: 47686ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(25) {
+  animation: rotate linear infinite;
+  animation-delay: -43900ms;
+  animation-duration: 69109ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(26) {
+  animation: rotate linear infinite;
+  animation-delay: -49310ms;
+  animation-duration: 64736ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(27) {
+  animation: rotate linear infinite;
+  animation-delay: -45899ms;
+  animation-duration: 48072ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(28) {
+  animation: rotate linear infinite;
+  animation-delay: -47939ms;
+  animation-duration: 55186ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(29) {
+  animation: rotate linear infinite;
+  animation-delay: -42647ms;
+  animation-duration: 49081ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(30) {
+  animation: rotate linear infinite;
+  animation-delay: -46224ms;
+  animation-duration: 54646ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(31) {
+  animation: rotate linear infinite;
+  animation-delay: -42942ms;
+  animation-duration: 33860ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(32) {
+  animation: rotate linear infinite;
+  animation-delay: -40457ms;
+  animation-duration: 51387ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(33) {
+  animation: rotate linear infinite;
+  animation-delay: -45260ms;
+  animation-duration: 42659ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(34) {
+  animation: rotate linear infinite;
+  animation-delay: -44381ms;
+  animation-duration: 47462ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(35) {
+  animation: rotate linear infinite;
+  animation-delay: -49544ms;
+  animation-duration: 60526ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(36) {
+  animation: rotate linear infinite;
+  animation-delay: -43193ms;
+  animation-duration: 62933ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(37) {
+  animation: rotate linear infinite;
+  animation-delay: -41562ms;
+  animation-duration: 63937ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(38) {
+  animation: rotate linear infinite;
+  animation-delay: -48492ms;
+  animation-duration: 47518ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(39) {
+  animation: rotate linear infinite;
+  animation-delay: -48538ms;
+  animation-duration: 65231ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(40) {
+  animation: rotate linear infinite;
+  animation-delay: -44130ms;
+  animation-duration: 66133ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(41) {
+  animation: rotate linear infinite;
+  animation-delay: -47235ms;
+  animation-duration: 23179ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(42) {
+  animation: rotate linear infinite;
+  animation-delay: -42261ms;
+  animation-duration: 25345ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(43) {
+  animation: rotate linear infinite;
+  animation-delay: -49130ms;
+  animation-duration: 44962ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(44) {
+  animation: rotate linear infinite;
+  animation-delay: -44617ms;
+  animation-duration: 56548ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(45) {
+  animation: rotate linear infinite;
+  animation-delay: -43598ms;
+  animation-duration: 44346ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(46) {
+  animation: rotate linear infinite;
+  animation-delay: -48676ms;
+  animation-duration: 28533ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(47) {
+  animation: rotate linear infinite;
+  animation-delay: -42257ms;
+  animation-duration: 20837ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(48) {
+  animation: rotate linear infinite;
+  animation-delay: -46008ms;
+  animation-duration: 62379ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(49) {
+  animation: rotate linear infinite;
+  animation-delay: -42921ms;
+  animation-duration: 30703ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(50) {
+  animation: rotate linear infinite;
+  animation-delay: -47960ms;
+  animation-duration: 64760ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(51) {
+  animation: rotate linear infinite;
+  animation-delay: -43249ms;
+  animation-duration: 27340ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(52) {
+  animation: rotate linear infinite;
+  animation-delay: -46012ms;
+  animation-duration: 65397ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(53) {
+  animation: rotate linear infinite;
+  animation-delay: -42997ms;
+  animation-duration: 44798ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(54) {
+  animation: rotate linear infinite;
+  animation-delay: -47064ms;
+  animation-duration: 35437ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(55) {
+  animation: rotate linear infinite;
+  animation-delay: -49828ms;
+  animation-duration: 52429ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(56) {
+  animation: rotate linear infinite;
+  animation-delay: -46371ms;
+  animation-duration: 24287ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(57) {
+  animation: rotate linear infinite;
+  animation-delay: -48692ms;
+  animation-duration: 59431ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(58) {
+  animation: rotate linear infinite;
+  animation-delay: -44529ms;
+  animation-duration: 24768ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(59) {
+  animation: rotate linear infinite;
+  animation-delay: -46324ms;
+  animation-duration: 21532ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(60) {
+  animation: rotate linear infinite;
+  animation-delay: -42912ms;
+  animation-duration: 59906ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(61) {
+  animation: rotate linear infinite;
+  animation-delay: -42753ms;
+  animation-duration: 49614ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(62) {
+  animation: rotate linear infinite;
+  animation-delay: -43068ms;
+  animation-duration: 38516ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(63) {
+  animation: rotate linear infinite;
+  animation-delay: -42712ms;
+  animation-duration: 58776ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(64) {
+  animation: rotate linear infinite;
+  animation-delay: -45629ms;
+  animation-duration: 46072ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(65) {
+  animation: rotate linear infinite;
+  animation-delay: -46030ms;
+  animation-duration: 30080ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(66) {
+  animation: rotate linear infinite;
+  animation-delay: -44629ms;
+  animation-duration: 46557ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(67) {
+  animation: rotate linear infinite;
+  animation-delay: -41285ms;
+  animation-duration: 26750ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(68) {
+  animation: rotate linear infinite;
+  animation-delay: -45943ms;
+  animation-duration: 46322ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(69) {
+  animation: rotate linear infinite;
+  animation-delay: -49388ms;
+  animation-duration: 44047ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(70) {
+  animation: rotate linear infinite;
+  animation-delay: -45673ms;
+  animation-duration: 47525ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(71) {
+  animation: rotate linear infinite;
+  animation-delay: -45320ms;
+  animation-duration: 21968ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(72) {
+  animation: rotate linear infinite;
+  animation-delay: -46042ms;
+  animation-duration: 44783ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(73) {
+  animation: rotate linear infinite;
+  animation-delay: -49484ms;
+  animation-duration: 48813ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(74) {
+  animation: rotate linear infinite;
+  animation-delay: -41219ms;
+  animation-duration: 40265ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(75) {
+  animation: rotate linear infinite;
+  animation-delay: -47778ms;
+  animation-duration: 36848ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(76) {
+  animation: rotate linear infinite;
+  animation-delay: -46172ms;
+  animation-duration: 67620ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(77) {
+  animation: rotate linear infinite;
+  animation-delay: -45415ms;
+  animation-duration: 23658ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(78) {
+  animation: rotate linear infinite;
+  animation-delay: -48096ms;
+  animation-duration: 40873ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(79) {
+  animation: rotate linear infinite;
+  animation-delay: -43393ms;
+  animation-duration: 58141ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(80) {
+  animation: rotate linear infinite;
+  animation-delay: -42403ms;
+  animation-duration: 27089ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(81) {
+  animation: rotate linear infinite;
+  animation-delay: -48536ms;
+  animation-duration: 47053ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(82) {
+  animation: rotate linear infinite;
+  animation-delay: -49321ms;
+  animation-duration: 21716ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(83) {
+  animation: rotate linear infinite;
+  animation-delay: -47736ms;
+  animation-duration: 37146ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(84) {
+  animation: rotate linear infinite;
+  animation-delay: -41398ms;
+  animation-duration: 20870ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(85) {
+  animation: rotate linear infinite;
+  animation-delay: -49870ms;
+  animation-duration: 45123ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(86) {
+  animation: rotate linear infinite;
+  animation-delay: -43115ms;
+  animation-duration: 63989ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(87) {
+  animation: rotate linear infinite;
+  animation-delay: -49513ms;
+  animation-duration: 30051ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(88) {
+  animation: rotate linear infinite;
+  animation-delay: -46382ms;
+  animation-duration: 48450ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(89) {
+  animation: rotate linear infinite;
+  animation-delay: -42684ms;
+  animation-duration: 23585ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(90) {
+  animation: rotate linear infinite;
+  animation-delay: -43673ms;
+  animation-duration: 22853ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(91) {
+  animation: rotate linear infinite;
+  animation-delay: -42019ms;
+  animation-duration: 62995ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(92) {
+  animation: rotate linear infinite;
+  animation-delay: -41834ms;
+  animation-duration: 55074ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(93) {
+  animation: rotate linear infinite;
+  animation-delay: -45070ms;
+  animation-duration: 55062ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(94) {
+  animation: rotate linear infinite;
+  animation-delay: -46242ms;
+  animation-duration: 22438ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(95) {
+  animation: rotate linear infinite;
+  animation-delay: -48531ms;
+  animation-duration: 44214ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(96) {
+  animation: rotate linear infinite;
+  animation-delay: -46117ms;
+  animation-duration: 58204ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(97) {
+  animation: rotate linear infinite;
+  animation-delay: -43876ms;
+  animation-duration: 54500ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(98) {
+  animation: rotate linear infinite;
+  animation-delay: -40311ms;
+  animation-duration: 31428ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(99) {
+  animation: rotate linear infinite;
+  animation-delay: -48478ms;
+  animation-duration: 23756ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(100) {
+  animation: rotate linear infinite;
+  animation-delay: -45190ms;
+  animation-duration: 33592ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(101) {
+  animation: rotate linear infinite;
+  animation-delay: -43823ms;
+  animation-duration: 44314ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(102) {
+  animation: rotate linear infinite;
+  animation-delay: -44320ms;
+  animation-duration: 42128ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(103) {
+  animation: rotate linear infinite;
+  animation-delay: -48974ms;
+  animation-duration: 64516ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(104) {
+  animation: rotate linear infinite;
+  animation-delay: -41650ms;
+  animation-duration: 50701ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(105) {
+  animation: rotate linear infinite;
+  animation-delay: -44608ms;
+  animation-duration: 38688ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(106) {
+  animation: rotate linear infinite;
+  animation-delay: -43425ms;
+  animation-duration: 63965ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(107) {
+  animation: rotate linear infinite;
+  animation-delay: -48614ms;
+  animation-duration: 57064ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(108) {
+  animation: rotate linear infinite;
+  animation-delay: -47082ms;
+  animation-duration: 37879ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(109) {
+  animation: rotate linear infinite;
+  animation-delay: -42914ms;
+  animation-duration: 28976ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(110) {
+  animation: rotate linear infinite;
+  animation-delay: -46058ms;
+  animation-duration: 44235ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(111) {
+  animation: rotate linear infinite;
+  animation-delay: -48396ms;
+  animation-duration: 65606ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(112) {
+  animation: rotate linear infinite;
+  animation-delay: -43027ms;
+  animation-duration: 24208ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(113) {
+  animation: rotate linear infinite;
+  animation-delay: -45225ms;
+  animation-duration: 62397ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(114) {
+  animation: rotate linear infinite;
+  animation-delay: -46640ms;
+  animation-duration: 32260ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(115) {
+  animation: rotate linear infinite;
+  animation-delay: -41460ms;
+  animation-duration: 24407ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(116) {
+  animation: rotate linear infinite;
+  animation-delay: -42622ms;
+  animation-duration: 26350ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(117) {
+  animation: rotate linear infinite;
+  animation-delay: -46594ms;
+  animation-duration: 61632ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(118) {
+  animation: rotate linear infinite;
+  animation-delay: -46093ms;
+  animation-duration: 29086ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(119) {
+  animation: rotate linear infinite;
+  animation-delay: -45752ms;
+  animation-duration: 40338ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(120) {
+  animation: rotate linear infinite;
+  animation-delay: -48617ms;
+  animation-duration: 51746ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(121) {
+  animation: rotate linear infinite;
+  animation-delay: -46439ms;
+  animation-duration: 41853ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(122) {
+  animation: rotate linear infinite;
+  animation-delay: -42375ms;
+  animation-duration: 34175ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(123) {
+  animation: rotate linear infinite;
+  animation-delay: -40152ms;
+  animation-duration: 33033ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(124) {
+  animation: rotate linear infinite;
+  animation-delay: -48396ms;
+  animation-duration: 35747ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(125) {
+  animation: rotate linear infinite;
+  animation-delay: -44631ms;
+  animation-duration: 54506ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(126) {
+  animation: rotate linear infinite;
+  animation-delay: -45392ms;
+  animation-duration: 52490ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(127) {
+  animation: rotate linear infinite;
+  animation-delay: -47685ms;
+  animation-duration: 68512ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(128) {
+  animation: rotate linear infinite;
+  animation-delay: -47227ms;
+  animation-duration: 61137ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(129) {
+  animation: rotate linear infinite;
+  animation-delay: -44783ms;
+  animation-duration: 20944ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(130) {
+  animation: rotate linear infinite;
+  animation-delay: -41152ms;
+  animation-duration: 49805ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(131) {
+  animation: rotate linear infinite;
+  animation-delay: -44736ms;
+  animation-duration: 61481ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(132) {
+  animation: rotate linear infinite;
+  animation-delay: -47794ms;
+  animation-duration: 40476ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(133) {
+  animation: rotate linear infinite;
+  animation-delay: -46957ms;
+  animation-duration: 29927ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(134) {
+  animation: rotate linear infinite;
+  animation-delay: -43938ms;
+  animation-duration: 67975ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(135) {
+  animation: rotate linear infinite;
+  animation-delay: -41528ms;
+  animation-duration: 58837ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(136) {
+  animation: rotate linear infinite;
+  animation-delay: -48461ms;
+  animation-duration: 20640ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(137) {
+  animation: rotate linear infinite;
+  animation-delay: -49172ms;
+  animation-duration: 37495ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(138) {
+  animation: rotate linear infinite;
+  animation-delay: -44714ms;
+  animation-duration: 57427ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(139) {
+  animation: rotate linear infinite;
+  animation-delay: -49496ms;
+  animation-duration: 67006ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(140) {
+  animation: rotate linear infinite;
+  animation-delay: -45815ms;
+  animation-duration: 21994ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(141) {
+  animation: rotate linear infinite;
+  animation-delay: -49173ms;
+  animation-duration: 32282ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(142) {
+  animation: rotate linear infinite;
+  animation-delay: -43057ms;
+  animation-duration: 47297ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(143) {
+  animation: rotate linear infinite;
+  animation-delay: -46611ms;
+  animation-duration: 41706ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(144) {
+  animation: rotate linear infinite;
+  animation-delay: -46905ms;
+  animation-duration: 37630ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(145) {
+  animation: rotate linear infinite;
+  animation-delay: -44073ms;
+  animation-duration: 62382ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(146) {
+  animation: rotate linear infinite;
+  animation-delay: -49856ms;
+  animation-duration: 22532ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(147) {
+  animation: rotate linear infinite;
+  animation-delay: -41640ms;
+  animation-duration: 29748ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(148) {
+  animation: rotate linear infinite;
+  animation-delay: -42290ms;
+  animation-duration: 58326ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(149) {
+  animation: rotate linear infinite;
+  animation-delay: -40006ms;
+  animation-duration: 53549ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(150) {
+  animation: rotate linear infinite;
+  animation-delay: -42095ms;
+  animation-duration: 56800ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(151) {
+  animation: rotate linear infinite;
+  animation-delay: -49025ms;
+  animation-duration: 56105ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(152) {
+  animation: rotate linear infinite;
+  animation-delay: -44205ms;
+  animation-duration: 22381ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(153) {
+  animation: rotate linear infinite;
+  animation-delay: -42582ms;
+  animation-duration: 34039ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(154) {
+  animation: rotate linear infinite;
+  animation-delay: -42926ms;
+  animation-duration: 40018ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(155) {
+  animation: rotate linear infinite;
+  animation-delay: -48249ms;
+  animation-duration: 22388ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(156) {
+  animation: rotate linear infinite;
+  animation-delay: -41854ms;
+  animation-duration: 49082ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(157) {
+  animation: rotate linear infinite;
+  animation-delay: -48301ms;
+  animation-duration: 22450ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(158) {
+  animation: rotate linear infinite;
+  animation-delay: -41904ms;
+  animation-duration: 24778ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(159) {
+  animation: rotate linear infinite;
+  animation-delay: -48746ms;
+  animation-duration: 44588ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(160) {
+  animation: rotate linear infinite;
+  animation-delay: -49419ms;
+  animation-duration: 26518ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(161) {
+  animation: rotate linear infinite;
+  animation-delay: -41813ms;
+  animation-duration: 44025ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(162) {
+  animation: rotate linear infinite;
+  animation-delay: -46023ms;
+  animation-duration: 29158ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(163) {
+  animation: rotate linear infinite;
+  animation-delay: -42730ms;
+  animation-duration: 33402ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(164) {
+  animation: rotate linear infinite;
+  animation-delay: -48347ms;
+  animation-duration: 51286ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(165) {
+  animation: rotate linear infinite;
+  animation-delay: -45400ms;
+  animation-duration: 32193ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(166) {
+  animation: rotate linear infinite;
+  animation-delay: -40612ms;
+  animation-duration: 44931ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(167) {
+  animation: rotate linear infinite;
+  animation-delay: -43133ms;
+  animation-duration: 69295ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(168) {
+  animation: rotate linear infinite;
+  animation-delay: -40529ms;
+  animation-duration: 61708ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(169) {
+  animation: rotate linear infinite;
+  animation-delay: -48224ms;
+  animation-duration: 57692ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(170) {
+  animation: rotate linear infinite;
+  animation-delay: -44844ms;
+  animation-duration: 60542ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(171) {
+  animation: rotate linear infinite;
+  animation-delay: -46800ms;
+  animation-duration: 61822ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(172) {
+  animation: rotate linear infinite;
+  animation-delay: -41349ms;
+  animation-duration: 41896ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(173) {
+  animation: rotate linear infinite;
+  animation-delay: -45715ms;
+  animation-duration: 42196ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(174) {
+  animation: rotate linear infinite;
+  animation-delay: -43575ms;
+  animation-duration: 25196ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(175) {
+  animation: rotate linear infinite;
+  animation-delay: -43555ms;
+  animation-duration: 31012ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(176) {
+  animation: rotate linear infinite;
+  animation-delay: -44651ms;
+  animation-duration: 38528ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(177) {
+  animation: rotate linear infinite;
+  animation-delay: -41937ms;
+  animation-duration: 66631ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(178) {
+  animation: rotate linear infinite;
+  animation-delay: -47883ms;
+  animation-duration: 28596ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(179) {
+  animation: rotate linear infinite;
+  animation-delay: -41928ms;
+  animation-duration: 57428ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(180) {
+  animation: rotate linear infinite;
+  animation-delay: -46017ms;
+  animation-duration: 25497ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(181) {
+  animation: rotate linear infinite;
+  animation-delay: -42931ms;
+  animation-duration: 57383ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(182) {
+  animation: rotate linear infinite;
+  animation-delay: -40932ms;
+  animation-duration: 60746ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(183) {
+  animation: rotate linear infinite;
+  animation-delay: -42273ms;
+  animation-duration: 54694ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(184) {
+  animation: rotate linear infinite;
+  animation-delay: -49931ms;
+  animation-duration: 42790ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(185) {
+  animation: rotate linear infinite;
+  animation-delay: -44705ms;
+  animation-duration: 68226ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(186) {
+  animation: rotate linear infinite;
+  animation-delay: -43564ms;
+  animation-duration: 68689ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(187) {
+  animation: rotate linear infinite;
+  animation-delay: -44600ms;
+  animation-duration: 29952ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(188) {
+  animation: rotate linear infinite;
+  animation-delay: -48202ms;
+  animation-duration: 42697ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(189) {
+  animation: rotate linear infinite;
+  animation-delay: -42702ms;
+  animation-duration: 55052ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(190) {
+  animation: rotate linear infinite;
+  animation-delay: -48091ms;
+  animation-duration: 54190ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(191) {
+  animation: rotate linear infinite;
+  animation-delay: -42521ms;
+  animation-duration: 33113ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(192) {
+  animation: rotate linear infinite;
+  animation-delay: -49631ms;
+  animation-duration: 45933ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(193) {
+  animation: rotate linear infinite;
+  animation-delay: -42177ms;
+  animation-duration: 34308ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(194) {
+  animation: rotate linear infinite;
+  animation-delay: -46846ms;
+  animation-duration: 37124ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(195) {
+  animation: rotate linear infinite;
+  animation-delay: -45353ms;
+  animation-duration: 37755ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(196) {
+  animation: rotate linear infinite;
+  animation-delay: -41506ms;
+  animation-duration: 25751ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(197) {
+  animation: rotate linear infinite;
+  animation-delay: -45997ms;
+  animation-duration: 51773ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(198) {
+  animation: rotate linear infinite;
+  animation-delay: -44028ms;
+  animation-duration: 39486ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(199) {
+  animation: rotate linear infinite;
+  animation-delay: -43114ms;
+  animation-duration: 60471ms;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(200) {
+  animation: rotate linear infinite;
+  animation-delay: -46853ms;
+  animation-duration: 66545ms;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotateY(0);
+  }
+  100% {
+    transform: rotateY(1turn);
+  }
+}
+.particle {
+  position: absolute;
+  top: -280px;
+  width: 30px;
+  height: 30px;
+  background-color: #000;
+  border-radius: 50%;
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(1) .particle_rotate {
+  transform: rotateX(10deg);
+}
+.particle__wrap:nth-of-type(1) .particle_pos {
+  transform: translateY(195px);
+}
+.particle__wrap:nth-of-type(1) .particle {
+  left: calc(30% + 385px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(2) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(2) .particle_pos {
+  transform: translateY(183px);
+}
+.particle__wrap:nth-of-type(2) .particle {
+  left: calc(30% + 218px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(3) .particle_rotate {
+  transform: rotateX(10deg);
+}
+.particle__wrap:nth-of-type(3) .particle_pos {
+  transform: translateY(361px);
+}
+.particle__wrap:nth-of-type(3) .particle {
+  left: calc(30% + 204px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(4) .particle_rotate {
+  transform: rotateX(24deg);
+}
+.particle__wrap:nth-of-type(4) .particle_pos {
+  transform: translateY(197px);
+}
+.particle__wrap:nth-of-type(4) .particle {
+  left: calc(30% + 341px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(5) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(5) .particle_pos {
+  transform: translateY(224px);
+}
+.particle__wrap:nth-of-type(5) .particle {
+  left: calc(30% + 478px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(6) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(6) .particle_pos {
+  transform: translateY(186px);
+}
+.particle__wrap:nth-of-type(6) .particle {
+  left: calc(30% + 223px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(7) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(7) .particle_pos {
+  transform: translateY(365px);
+}
+.particle__wrap:nth-of-type(7) .particle {
+  left: calc(30% + 278px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(8) .particle_rotate {
+  transform: rotateX(37deg);
+}
+.particle__wrap:nth-of-type(8) .particle_pos {
+  transform: translateY(195px);
+}
+.particle__wrap:nth-of-type(8) .particle {
+  left: calc(30% + 471px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(9) .particle_rotate {
+  transform: rotateX(15deg);
+}
+.particle__wrap:nth-of-type(9) .particle_pos {
+  transform: translateY(229px);
+}
+.particle__wrap:nth-of-type(9) .particle {
+  left: calc(30% + 334px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(10) .particle_rotate {
+  transform: rotateX(34deg);
+}
+.particle__wrap:nth-of-type(10) .particle_pos {
+  transform: translateY(217px);
+}
+.particle__wrap:nth-of-type(10) .particle {
+  left: calc(30% + 317px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(11) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(11) .particle_pos {
+  transform: translateY(340px);
+}
+.particle__wrap:nth-of-type(11) .particle {
+  left: calc(30% + 241px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(12) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(12) .particle_pos {
+  transform: translateY(377px);
+}
+.particle__wrap:nth-of-type(12) .particle {
+  left: calc(30% + 381px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(13) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(13) .particle_pos {
+  transform: translateY(346px);
+}
+.particle__wrap:nth-of-type(13) .particle {
+  left: calc(30% + 226px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(14) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(14) .particle_pos {
+  transform: translateY(195px);
+}
+.particle__wrap:nth-of-type(14) .particle {
+  left: calc(30% + 478px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(15) .particle_rotate {
+  transform: rotateX(44deg);
+}
+.particle__wrap:nth-of-type(15) .particle_pos {
+  transform: translateY(199px);
+}
+.particle__wrap:nth-of-type(15) .particle {
+  left: calc(30% + 205px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(16) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(16) .particle_pos {
+  transform: translateY(238px);
+}
+.particle__wrap:nth-of-type(16) .particle {
+  left: calc(30% + 251px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(17) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(17) .particle_pos {
+  transform: translateY(262px);
+}
+.particle__wrap:nth-of-type(17) .particle {
+  left: calc(30% + 368px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(18) .particle_rotate {
+  transform: rotateX(37deg);
+}
+.particle__wrap:nth-of-type(18) .particle_pos {
+  transform: translateY(281px);
+}
+.particle__wrap:nth-of-type(18) .particle {
+  left: calc(30% + 388px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(19) .particle_rotate {
+  transform: rotateX(40deg);
+}
+.particle__wrap:nth-of-type(19) .particle_pos {
+  transform: translateY(219px);
+}
+.particle__wrap:nth-of-type(19) .particle {
+  left: calc(30% + 420px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(20) .particle_rotate {
+  transform: rotateX(28deg);
+}
+.particle__wrap:nth-of-type(20) .particle_pos {
+  transform: translateY(286px);
+}
+.particle__wrap:nth-of-type(20) .particle {
+  left: calc(30% + 203px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(21) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(21) .particle_pos {
+  transform: translateY(243px);
+}
+.particle__wrap:nth-of-type(21) .particle {
+  left: calc(30% + 420px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(22) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(22) .particle_pos {
+  transform: translateY(313px);
+}
+.particle__wrap:nth-of-type(22) .particle {
+  left: calc(30% + 296px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(23) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(23) .particle_pos {
+  transform: translateY(254px);
+}
+.particle__wrap:nth-of-type(23) .particle {
+  left: calc(30% + 439px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(24) .particle_rotate {
+  transform: rotateX(45deg);
+}
+.particle__wrap:nth-of-type(24) .particle_pos {
+  transform: translateY(373px);
+}
+.particle__wrap:nth-of-type(24) .particle {
+  left: calc(30% + 458px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(25) .particle_rotate {
+  transform: rotateX(20deg);
+}
+.particle__wrap:nth-of-type(25) .particle_pos {
+  transform: translateY(187px);
+}
+.particle__wrap:nth-of-type(25) .particle {
+  left: calc(30% + 330px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(26) .particle_rotate {
+  transform: rotateX(5deg);
+}
+.particle__wrap:nth-of-type(26) .particle_pos {
+  transform: translateY(353px);
+}
+.particle__wrap:nth-of-type(26) .particle {
+  left: calc(30% + 299px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(27) .particle_rotate {
+  transform: rotateX(4deg);
+}
+.particle__wrap:nth-of-type(27) .particle_pos {
+  transform: translateY(373px);
+}
+.particle__wrap:nth-of-type(27) .particle {
+  left: calc(30% + 471px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(28) .particle_rotate {
+  transform: rotateX(30deg);
+}
+.particle__wrap:nth-of-type(28) .particle_pos {
+  transform: translateY(235px);
+}
+.particle__wrap:nth-of-type(28) .particle {
+  left: calc(30% + 339px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(29) .particle_rotate {
+  transform: rotateX(44deg);
+}
+.particle__wrap:nth-of-type(29) .particle_pos {
+  transform: translateY(202px);
+}
+.particle__wrap:nth-of-type(29) .particle {
+  left: calc(30% + 433px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(30) .particle_rotate {
+  transform: rotateX(22deg);
+}
+.particle__wrap:nth-of-type(30) .particle_pos {
+  transform: translateY(268px);
+}
+.particle__wrap:nth-of-type(30) .particle {
+  left: calc(30% + 494px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(31) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(31) .particle_pos {
+  transform: translateY(244px);
+}
+.particle__wrap:nth-of-type(31) .particle {
+  left: calc(30% + 292px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(32) .particle_rotate {
+  transform: rotateX(22deg);
+}
+.particle__wrap:nth-of-type(32) .particle_pos {
+  transform: translateY(373px);
+}
+.particle__wrap:nth-of-type(32) .particle {
+  left: calc(30% + 289px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(33) .particle_rotate {
+  transform: rotateX(5deg);
+}
+.particle__wrap:nth-of-type(33) .particle_pos {
+  transform: translateY(364px);
+}
+.particle__wrap:nth-of-type(33) .particle {
+  left: calc(30% + 211px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(34) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(34) .particle_pos {
+  transform: translateY(282px);
+}
+.particle__wrap:nth-of-type(34) .particle {
+  left: calc(30% + 312px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(35) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(35) .particle_pos {
+  transform: translateY(241px);
+}
+.particle__wrap:nth-of-type(35) .particle {
+  left: calc(30% + 497px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(36) .particle_rotate {
+  transform: rotateX(4deg);
+}
+.particle__wrap:nth-of-type(36) .particle_pos {
+  transform: translateY(355px);
+}
+.particle__wrap:nth-of-type(36) .particle {
+  left: calc(30% + 474px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(37) .particle_rotate {
+  transform: rotateX(45deg);
+}
+.particle__wrap:nth-of-type(37) .particle_pos {
+  transform: translateY(314px);
+}
+.particle__wrap:nth-of-type(37) .particle {
+  left: calc(30% + 378px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(38) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(38) .particle_pos {
+  transform: translateY(311px);
+}
+.particle__wrap:nth-of-type(38) .particle {
+  left: calc(30% + 304px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(39) .particle_rotate {
+  transform: rotateX(19deg);
+}
+.particle__wrap:nth-of-type(39) .particle_pos {
+  transform: translateY(264px);
+}
+.particle__wrap:nth-of-type(39) .particle {
+  left: calc(30% + 318px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(40) .particle_rotate {
+  transform: rotateX(40deg);
+}
+.particle__wrap:nth-of-type(40) .particle_pos {
+  transform: translateY(268px);
+}
+.particle__wrap:nth-of-type(40) .particle {
+  left: calc(30% + 315px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(41) .particle_rotate {
+  transform: rotateX(37deg);
+}
+.particle__wrap:nth-of-type(41) .particle_pos {
+  transform: translateY(263px);
+}
+.particle__wrap:nth-of-type(41) .particle {
+  left: calc(30% + 409px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(42) .particle_rotate {
+  transform: rotateX(26deg);
+}
+.particle__wrap:nth-of-type(42) .particle_pos {
+  transform: translateY(285px);
+}
+.particle__wrap:nth-of-type(42) .particle {
+  left: calc(30% + 218px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(43) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(43) .particle_pos {
+  transform: translateY(227px);
+}
+.particle__wrap:nth-of-type(43) .particle {
+  left: calc(30% + 320px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(44) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(44) .particle_pos {
+  transform: translateY(376px);
+}
+.particle__wrap:nth-of-type(44) .particle {
+  left: calc(30% + 341px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(45) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(45) .particle_pos {
+  transform: translateY(367px);
+}
+.particle__wrap:nth-of-type(45) .particle {
+  left: calc(30% + 485px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(46) .particle_rotate {
+  transform: rotateX(8deg);
+}
+.particle__wrap:nth-of-type(46) .particle_pos {
+  transform: translateY(257px);
+}
+.particle__wrap:nth-of-type(46) .particle {
+  left: calc(30% + 441px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(47) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(47) .particle_pos {
+  transform: translateY(247px);
+}
+.particle__wrap:nth-of-type(47) .particle {
+  left: calc(30% + 287px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(48) .particle_rotate {
+  transform: rotateX(4deg);
+}
+.particle__wrap:nth-of-type(48) .particle_pos {
+  transform: translateY(202px);
+}
+.particle__wrap:nth-of-type(48) .particle {
+  left: calc(30% + 368px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(49) .particle_rotate {
+  transform: rotateX(3deg);
+}
+.particle__wrap:nth-of-type(49) .particle_pos {
+  transform: translateY(273px);
+}
+.particle__wrap:nth-of-type(49) .particle {
+  left: calc(30% + 235px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(50) .particle_rotate {
+  transform: rotateX(2deg);
+}
+.particle__wrap:nth-of-type(50) .particle_pos {
+  transform: translateY(257px);
+}
+.particle__wrap:nth-of-type(50) .particle {
+  left: calc(30% + 304px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(51) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(51) .particle_pos {
+  transform: translateY(225px);
+}
+.particle__wrap:nth-of-type(51) .particle {
+  left: calc(30% + 263px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(52) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(52) .particle_pos {
+  transform: translateY(305px);
+}
+.particle__wrap:nth-of-type(52) .particle {
+  left: calc(30% + 271px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(53) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(53) .particle_pos {
+  transform: translateY(255px);
+}
+.particle__wrap:nth-of-type(53) .particle {
+  left: calc(30% + 320px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(54) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(54) .particle_pos {
+  transform: translateY(210px);
+}
+.particle__wrap:nth-of-type(54) .particle {
+  left: calc(30% + 387px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(55) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(55) .particle_pos {
+  transform: translateY(281px);
+}
+.particle__wrap:nth-of-type(55) .particle {
+  left: calc(30% + 237px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(56) .particle_rotate {
+  transform: rotateX(39deg);
+}
+.particle__wrap:nth-of-type(56) .particle_pos {
+  transform: translateY(339px);
+}
+.particle__wrap:nth-of-type(56) .particle {
+  left: calc(30% + 271px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(57) .particle_rotate {
+  transform: rotateX(21deg);
+}
+.particle__wrap:nth-of-type(57) .particle_pos {
+  transform: translateY(375px);
+}
+.particle__wrap:nth-of-type(57) .particle {
+  left: calc(30% + 362px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(58) .particle_rotate {
+  transform: rotateX(21deg);
+}
+.particle__wrap:nth-of-type(58) .particle_pos {
+  transform: translateY(258px);
+}
+.particle__wrap:nth-of-type(58) .particle {
+  left: calc(30% + 404px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(59) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(59) .particle_pos {
+  transform: translateY(286px);
+}
+.particle__wrap:nth-of-type(59) .particle {
+  left: calc(30% + 228px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(60) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(60) .particle_pos {
+  transform: translateY(347px);
+}
+.particle__wrap:nth-of-type(60) .particle {
+  left: calc(30% + 229px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(61) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(61) .particle_pos {
+  transform: translateY(248px);
+}
+.particle__wrap:nth-of-type(61) .particle {
+  left: calc(30% + 251px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(62) .particle_rotate {
+  transform: rotateX(3deg);
+}
+.particle__wrap:nth-of-type(62) .particle_pos {
+  transform: translateY(314px);
+}
+.particle__wrap:nth-of-type(62) .particle {
+  left: calc(30% + 287px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(63) .particle_rotate {
+  transform: rotateX(12deg);
+}
+.particle__wrap:nth-of-type(63) .particle_pos {
+  transform: translateY(270px);
+}
+.particle__wrap:nth-of-type(63) .particle {
+  left: calc(30% + 299px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(64) .particle_rotate {
+  transform: rotateX(29deg);
+}
+.particle__wrap:nth-of-type(64) .particle_pos {
+  transform: translateY(329px);
+}
+.particle__wrap:nth-of-type(64) .particle {
+  left: calc(30% + 460px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(65) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(65) .particle_pos {
+  transform: translateY(350px);
+}
+.particle__wrap:nth-of-type(65) .particle {
+  left: calc(30% + 470px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(66) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(66) .particle_pos {
+  transform: translateY(284px);
+}
+.particle__wrap:nth-of-type(66) .particle {
+  left: calc(30% + 269px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(67) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(67) .particle_pos {
+  transform: translateY(313px);
+}
+.particle__wrap:nth-of-type(67) .particle {
+  left: calc(30% + 413px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(68) .particle_rotate {
+  transform: rotateX(19deg);
+}
+.particle__wrap:nth-of-type(68) .particle_pos {
+  transform: translateY(293px);
+}
+.particle__wrap:nth-of-type(68) .particle {
+  left: calc(30% + 294px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(69) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(69) .particle_pos {
+  transform: translateY(300px);
+}
+.particle__wrap:nth-of-type(69) .particle {
+  left: calc(30% + 454px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(70) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(70) .particle_pos {
+  transform: translateY(183px);
+}
+.particle__wrap:nth-of-type(70) .particle {
+  left: calc(30% + 270px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(71) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(71) .particle_pos {
+  transform: translateY(210px);
+}
+.particle__wrap:nth-of-type(71) .particle {
+  left: calc(30% + 432px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(72) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(72) .particle_pos {
+  transform: translateY(352px);
+}
+.particle__wrap:nth-of-type(72) .particle {
+  left: calc(30% + 252px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(73) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(73) .particle_pos {
+  transform: translateY(307px);
+}
+.particle__wrap:nth-of-type(73) .particle {
+  left: calc(30% + 376px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(74) .particle_rotate {
+  transform: rotateX(45deg);
+}
+.particle__wrap:nth-of-type(74) .particle_pos {
+  transform: translateY(230px);
+}
+.particle__wrap:nth-of-type(74) .particle {
+  left: calc(30% + 370px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(75) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(75) .particle_pos {
+  transform: translateY(185px);
+}
+.particle__wrap:nth-of-type(75) .particle {
+  left: calc(30% + 378px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(76) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(76) .particle_pos {
+  transform: translateY(278px);
+}
+.particle__wrap:nth-of-type(76) .particle {
+  left: calc(30% + 472px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(77) .particle_rotate {
+  transform: rotateX(21deg);
+}
+.particle__wrap:nth-of-type(77) .particle_pos {
+  transform: translateY(307px);
+}
+.particle__wrap:nth-of-type(77) .particle {
+  left: calc(30% + 211px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(78) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(78) .particle_pos {
+  transform: translateY(262px);
+}
+.particle__wrap:nth-of-type(78) .particle {
+  left: calc(30% + 421px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(79) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(79) .particle_pos {
+  transform: translateY(222px);
+}
+.particle__wrap:nth-of-type(79) .particle {
+  left: calc(30% + 360px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(80) .particle_rotate {
+  transform: rotateX(11deg);
+}
+.particle__wrap:nth-of-type(80) .particle_pos {
+  transform: translateY(308px);
+}
+.particle__wrap:nth-of-type(80) .particle {
+  left: calc(30% + 490px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(81) .particle_rotate {
+  transform: rotateX(18deg);
+}
+.particle__wrap:nth-of-type(81) .particle_pos {
+  transform: translateY(341px);
+}
+.particle__wrap:nth-of-type(81) .particle {
+  left: calc(30% + 276px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(82) .particle_rotate {
+  transform: rotateX(12deg);
+}
+.particle__wrap:nth-of-type(82) .particle_pos {
+  transform: translateY(225px);
+}
+.particle__wrap:nth-of-type(82) .particle {
+  left: calc(30% + 350px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(83) .particle_rotate {
+  transform: rotateX(28deg);
+}
+.particle__wrap:nth-of-type(83) .particle_pos {
+  transform: translateY(348px);
+}
+.particle__wrap:nth-of-type(83) .particle {
+  left: calc(30% + 352px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(84) .particle_rotate {
+  transform: rotateX(34deg);
+}
+.particle__wrap:nth-of-type(84) .particle_pos {
+  transform: translateY(281px);
+}
+.particle__wrap:nth-of-type(84) .particle {
+  left: calc(30% + 392px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(85) .particle_rotate {
+  transform: rotateX(29deg);
+}
+.particle__wrap:nth-of-type(85) .particle_pos {
+  transform: translateY(195px);
+}
+.particle__wrap:nth-of-type(85) .particle {
+  left: calc(30% + 493px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(86) .particle_rotate {
+  transform: rotateX(19deg);
+}
+.particle__wrap:nth-of-type(86) .particle_pos {
+  transform: translateY(258px);
+}
+.particle__wrap:nth-of-type(86) .particle {
+  left: calc(30% + 307px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(87) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(87) .particle_pos {
+  transform: translateY(311px);
+}
+.particle__wrap:nth-of-type(87) .particle {
+  left: calc(30% + 384px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(88) .particle_rotate {
+  transform: rotateX(5deg);
+}
+.particle__wrap:nth-of-type(88) .particle_pos {
+  transform: translateY(324px);
+}
+.particle__wrap:nth-of-type(88) .particle {
+  left: calc(30% + 395px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(89) .particle_rotate {
+  transform: rotateX(3deg);
+}
+.particle__wrap:nth-of-type(89) .particle_pos {
+  transform: translateY(367px);
+}
+.particle__wrap:nth-of-type(89) .particle {
+  left: calc(30% + 370px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(90) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(90) .particle_pos {
+  transform: translateY(257px);
+}
+.particle__wrap:nth-of-type(90) .particle {
+  left: calc(30% + 354px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(91) .particle_rotate {
+  transform: rotateX(3deg);
+}
+.particle__wrap:nth-of-type(91) .particle_pos {
+  transform: translateY(181px);
+}
+.particle__wrap:nth-of-type(91) .particle {
+  left: calc(30% + 500px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(92) .particle_rotate {
+  transform: rotateX(6deg);
+}
+.particle__wrap:nth-of-type(92) .particle_pos {
+  transform: translateY(301px);
+}
+.particle__wrap:nth-of-type(92) .particle {
+  left: calc(30% + 270px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(93) .particle_rotate {
+  transform: rotateX(2deg);
+}
+.particle__wrap:nth-of-type(93) .particle_pos {
+  transform: translateY(350px);
+}
+.particle__wrap:nth-of-type(93) .particle {
+  left: calc(30% + 299px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(94) .particle_rotate {
+  transform: rotateX(10deg);
+}
+.particle__wrap:nth-of-type(94) .particle_pos {
+  transform: translateY(284px);
+}
+.particle__wrap:nth-of-type(94) .particle {
+  left: calc(30% + 270px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(95) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(95) .particle_pos {
+  transform: translateY(344px);
+}
+.particle__wrap:nth-of-type(95) .particle {
+  left: calc(30% + 370px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(96) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(96) .particle_pos {
+  transform: translateY(191px);
+}
+.particle__wrap:nth-of-type(96) .particle {
+  left: calc(30% + 348px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(97) .particle_rotate {
+  transform: rotateX(26deg);
+}
+.particle__wrap:nth-of-type(97) .particle_pos {
+  transform: translateY(291px);
+}
+.particle__wrap:nth-of-type(97) .particle {
+  left: calc(30% + 477px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(98) .particle_rotate {
+  transform: rotateX(29deg);
+}
+.particle__wrap:nth-of-type(98) .particle_pos {
+  transform: translateY(246px);
+}
+.particle__wrap:nth-of-type(98) .particle {
+  left: calc(30% + 252px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(99) .particle_rotate {
+  transform: rotateX(24deg);
+}
+.particle__wrap:nth-of-type(99) .particle_pos {
+  transform: translateY(223px);
+}
+.particle__wrap:nth-of-type(99) .particle {
+  left: calc(30% + 348px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(100) .particle_rotate {
+  transform: rotateX(7deg);
+}
+.particle__wrap:nth-of-type(100) .particle_pos {
+  transform: translateY(305px);
+}
+.particle__wrap:nth-of-type(100) .particle {
+  left: calc(30% + 299px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(101) .particle_rotate {
+  transform: rotateX(8deg);
+}
+.particle__wrap:nth-of-type(101) .particle_pos {
+  transform: translateY(226px);
+}
+.particle__wrap:nth-of-type(101) .particle {
+  left: calc(30% + 426px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(102) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(102) .particle_pos {
+  transform: translateY(331px);
+}
+.particle__wrap:nth-of-type(102) .particle {
+  left: calc(30% + 250px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(103) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(103) .particle_pos {
+  transform: translateY(343px);
+}
+.particle__wrap:nth-of-type(103) .particle {
+  left: calc(30% + 293px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(104) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(104) .particle_pos {
+  transform: translateY(304px);
+}
+.particle__wrap:nth-of-type(104) .particle {
+  left: calc(30% + 283px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(105) .particle_rotate {
+  transform: rotateX(12deg);
+}
+.particle__wrap:nth-of-type(105) .particle_pos {
+  transform: translateY(276px);
+}
+.particle__wrap:nth-of-type(105) .particle {
+  left: calc(30% + 485px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(106) .particle_rotate {
+  transform: rotateX(31deg);
+}
+.particle__wrap:nth-of-type(106) .particle_pos {
+  transform: translateY(191px);
+}
+.particle__wrap:nth-of-type(106) .particle {
+  left: calc(30% + 296px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(107) .particle_rotate {
+  transform: rotateX(34deg);
+}
+.particle__wrap:nth-of-type(107) .particle_pos {
+  transform: translateY(311px);
+}
+.particle__wrap:nth-of-type(107) .particle {
+  left: calc(30% + 249px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(108) .particle_rotate {
+  transform: rotateX(34deg);
+}
+.particle__wrap:nth-of-type(108) .particle_pos {
+  transform: translateY(271px);
+}
+.particle__wrap:nth-of-type(108) .particle {
+  left: calc(30% + 464px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(109) .particle_rotate {
+  transform: rotateX(37deg);
+}
+.particle__wrap:nth-of-type(109) .particle_pos {
+  transform: translateY(286px);
+}
+.particle__wrap:nth-of-type(109) .particle {
+  left: calc(30% + 489px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(110) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(110) .particle_pos {
+  transform: translateY(215px);
+}
+.particle__wrap:nth-of-type(110) .particle {
+  left: calc(30% + 395px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(111) .particle_rotate {
+  transform: rotateX(8deg);
+}
+.particle__wrap:nth-of-type(111) .particle_pos {
+  transform: translateY(248px);
+}
+.particle__wrap:nth-of-type(111) .particle {
+  left: calc(30% + 466px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(112) .particle_rotate {
+  transform: rotateX(9deg);
+}
+.particle__wrap:nth-of-type(112) .particle_pos {
+  transform: translateY(334px);
+}
+.particle__wrap:nth-of-type(112) .particle {
+  left: calc(30% + 403px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(113) .particle_rotate {
+  transform: rotateX(36deg);
+}
+.particle__wrap:nth-of-type(113) .particle_pos {
+  transform: translateY(181px);
+}
+.particle__wrap:nth-of-type(113) .particle {
+  left: calc(30% + 419px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(114) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(114) .particle_pos {
+  transform: translateY(348px);
+}
+.particle__wrap:nth-of-type(114) .particle {
+  left: calc(30% + 490px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(115) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(115) .particle_pos {
+  transform: translateY(204px);
+}
+.particle__wrap:nth-of-type(115) .particle {
+  left: calc(30% + 277px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(116) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(116) .particle_pos {
+  transform: translateY(355px);
+}
+.particle__wrap:nth-of-type(116) .particle {
+  left: calc(30% + 239px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(117) .particle_rotate {
+  transform: rotateX(36deg);
+}
+.particle__wrap:nth-of-type(117) .particle_pos {
+  transform: translateY(220px);
+}
+.particle__wrap:nth-of-type(117) .particle {
+  left: calc(30% + 392px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(118) .particle_rotate {
+  transform: rotateX(39deg);
+}
+.particle__wrap:nth-of-type(118) .particle_pos {
+  transform: translateY(317px);
+}
+.particle__wrap:nth-of-type(118) .particle {
+  left: calc(30% + 240px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(119) .particle_rotate {
+  transform: rotateX(32deg);
+}
+.particle__wrap:nth-of-type(119) .particle_pos {
+  transform: translateY(185px);
+}
+.particle__wrap:nth-of-type(119) .particle {
+  left: calc(30% + 271px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(120) .particle_rotate {
+  transform: rotateX(18deg);
+}
+.particle__wrap:nth-of-type(120) .particle_pos {
+  transform: translateY(254px);
+}
+.particle__wrap:nth-of-type(120) .particle {
+  left: calc(30% + 472px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(121) .particle_rotate {
+  transform: rotateX(39deg);
+}
+.particle__wrap:nth-of-type(121) .particle_pos {
+  transform: translateY(344px);
+}
+.particle__wrap:nth-of-type(121) .particle {
+  left: calc(30% + 343px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(122) .particle_rotate {
+  transform: rotateX(32deg);
+}
+.particle__wrap:nth-of-type(122) .particle_pos {
+  transform: translateY(277px);
+}
+.particle__wrap:nth-of-type(122) .particle {
+  left: calc(30% + 418px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(123) .particle_rotate {
+  transform: rotateX(7deg);
+}
+.particle__wrap:nth-of-type(123) .particle_pos {
+  transform: translateY(219px);
+}
+.particle__wrap:nth-of-type(123) .particle {
+  left: calc(30% + 469px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(124) .particle_rotate {
+  transform: rotateX(18deg);
+}
+.particle__wrap:nth-of-type(124) .particle_pos {
+  transform: translateY(217px);
+}
+.particle__wrap:nth-of-type(124) .particle {
+  left: calc(30% + 326px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(125) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(125) .particle_pos {
+  transform: translateY(341px);
+}
+.particle__wrap:nth-of-type(125) .particle {
+  left: calc(30% + 238px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(126) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(126) .particle_pos {
+  transform: translateY(328px);
+}
+.particle__wrap:nth-of-type(126) .particle {
+  left: calc(30% + 257px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(127) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(127) .particle_pos {
+  transform: translateY(272px);
+}
+.particle__wrap:nth-of-type(127) .particle {
+  left: calc(30% + 217px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(128) .particle_rotate {
+  transform: rotateX(16deg);
+}
+.particle__wrap:nth-of-type(128) .particle_pos {
+  transform: translateY(261px);
+}
+.particle__wrap:nth-of-type(128) .particle {
+  left: calc(30% + 340px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(129) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(129) .particle_pos {
+  transform: translateY(270px);
+}
+.particle__wrap:nth-of-type(129) .particle {
+  left: calc(30% + 269px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(130) .particle_rotate {
+  transform: rotateX(7deg);
+}
+.particle__wrap:nth-of-type(130) .particle_pos {
+  transform: translateY(258px);
+}
+.particle__wrap:nth-of-type(130) .particle {
+  left: calc(30% + 402px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(131) .particle_rotate {
+  transform: rotateX(20deg);
+}
+.particle__wrap:nth-of-type(131) .particle_pos {
+  transform: translateY(371px);
+}
+.particle__wrap:nth-of-type(131) .particle {
+  left: calc(30% + 376px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(132) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(132) .particle_pos {
+  transform: translateY(297px);
+}
+.particle__wrap:nth-of-type(132) .particle {
+  left: calc(30% + 329px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(133) .particle_rotate {
+  transform: rotateX(6deg);
+}
+.particle__wrap:nth-of-type(133) .particle_pos {
+  transform: translateY(233px);
+}
+.particle__wrap:nth-of-type(133) .particle {
+  left: calc(30% + 262px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(134) .particle_rotate {
+  transform: rotateX(41deg);
+}
+.particle__wrap:nth-of-type(134) .particle_pos {
+  transform: translateY(211px);
+}
+.particle__wrap:nth-of-type(134) .particle {
+  left: calc(30% + 398px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(135) .particle_rotate {
+  transform: rotateX(24deg);
+}
+.particle__wrap:nth-of-type(135) .particle_pos {
+  transform: translateY(316px);
+}
+.particle__wrap:nth-of-type(135) .particle {
+  left: calc(30% + 331px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(136) .particle_rotate {
+  transform: rotateX(26deg);
+}
+.particle__wrap:nth-of-type(136) .particle_pos {
+  transform: translateY(362px);
+}
+.particle__wrap:nth-of-type(136) .particle {
+  left: calc(30% + 393px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(137) .particle_rotate {
+  transform: rotateX(44deg);
+}
+.particle__wrap:nth-of-type(137) .particle_pos {
+  transform: translateY(203px);
+}
+.particle__wrap:nth-of-type(137) .particle {
+  left: calc(30% + 410px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(138) .particle_rotate {
+  transform: rotateX(12deg);
+}
+.particle__wrap:nth-of-type(138) .particle_pos {
+  transform: translateY(223px);
+}
+.particle__wrap:nth-of-type(138) .particle {
+  left: calc(30% + 238px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(139) .particle_rotate {
+  transform: rotateX(3deg);
+}
+.particle__wrap:nth-of-type(139) .particle_pos {
+  transform: translateY(222px);
+}
+.particle__wrap:nth-of-type(139) .particle {
+  left: calc(30% + 345px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(140) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(140) .particle_pos {
+  transform: translateY(233px);
+}
+.particle__wrap:nth-of-type(140) .particle {
+  left: calc(30% + 232px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(141) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(141) .particle_pos {
+  transform: translateY(204px);
+}
+.particle__wrap:nth-of-type(141) .particle {
+  left: calc(30% + 230px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(142) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(142) .particle_pos {
+  transform: translateY(311px);
+}
+.particle__wrap:nth-of-type(142) .particle {
+  left: calc(30% + 251px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(143) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(143) .particle_pos {
+  transform: translateY(238px);
+}
+.particle__wrap:nth-of-type(143) .particle {
+  left: calc(30% + 239px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(144) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(144) .particle_pos {
+  transform: translateY(376px);
+}
+.particle__wrap:nth-of-type(144) .particle {
+  left: calc(30% + 264px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(145) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(145) .particle_pos {
+  transform: translateY(371px);
+}
+.particle__wrap:nth-of-type(145) .particle {
+  left: calc(30% + 379px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(146) .particle_rotate {
+  transform: rotateX(14deg);
+}
+.particle__wrap:nth-of-type(146) .particle_pos {
+  transform: translateY(369px);
+}
+.particle__wrap:nth-of-type(146) .particle {
+  left: calc(30% + 455px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(147) .particle_rotate {
+  transform: rotateX(37deg);
+}
+.particle__wrap:nth-of-type(147) .particle_pos {
+  transform: translateY(183px);
+}
+.particle__wrap:nth-of-type(147) .particle {
+  left: calc(30% + 297px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(148) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(148) .particle_pos {
+  transform: translateY(184px);
+}
+.particle__wrap:nth-of-type(148) .particle {
+  left: calc(30% + 391px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(149) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(149) .particle_pos {
+  transform: translateY(185px);
+}
+.particle__wrap:nth-of-type(149) .particle {
+  left: calc(30% + 294px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(150) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(150) .particle_pos {
+  transform: translateY(194px);
+}
+.particle__wrap:nth-of-type(150) .particle {
+  left: calc(30% + 308px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(151) .particle_rotate {
+  transform: rotateX(30deg);
+}
+.particle__wrap:nth-of-type(151) .particle_pos {
+  transform: translateY(255px);
+}
+.particle__wrap:nth-of-type(151) .particle {
+  left: calc(30% + 280px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(152) .particle_rotate {
+  transform: rotateX(30deg);
+}
+.particle__wrap:nth-of-type(152) .particle_pos {
+  transform: translateY(375px);
+}
+.particle__wrap:nth-of-type(152) .particle {
+  left: calc(30% + 351px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(153) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(153) .particle_pos {
+  transform: translateY(326px);
+}
+.particle__wrap:nth-of-type(153) .particle {
+  left: calc(30% + 236px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(154) .particle_rotate {
+  transform: rotateX(4deg);
+}
+.particle__wrap:nth-of-type(154) .particle_pos {
+  transform: translateY(351px);
+}
+.particle__wrap:nth-of-type(154) .particle {
+  left: calc(30% + 464px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(155) .particle_rotate {
+  transform: rotateX(9deg);
+}
+.particle__wrap:nth-of-type(155) .particle_pos {
+  transform: translateY(201px);
+}
+.particle__wrap:nth-of-type(155) .particle {
+  left: calc(30% + 365px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(156) .particle_rotate {
+  transform: rotateX(29deg);
+}
+.particle__wrap:nth-of-type(156) .particle_pos {
+  transform: translateY(368px);
+}
+.particle__wrap:nth-of-type(156) .particle {
+  left: calc(30% + 469px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(157) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(157) .particle_pos {
+  transform: translateY(312px);
+}
+.particle__wrap:nth-of-type(157) .particle {
+  left: calc(30% + 473px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(158) .particle_rotate {
+  transform: rotateX(36deg);
+}
+.particle__wrap:nth-of-type(158) .particle_pos {
+  transform: translateY(345px);
+}
+.particle__wrap:nth-of-type(158) .particle {
+  left: calc(30% + 242px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(159) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(159) .particle_pos {
+  transform: translateY(360px);
+}
+.particle__wrap:nth-of-type(159) .particle {
+  left: calc(30% + 457px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(160) .particle_rotate {
+  transform: rotateX(8deg);
+}
+.particle__wrap:nth-of-type(160) .particle_pos {
+  transform: translateY(314px);
+}
+.particle__wrap:nth-of-type(160) .particle {
+  left: calc(30% + 353px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(161) .particle_rotate {
+  transform: rotateX(23deg);
+}
+.particle__wrap:nth-of-type(161) .particle_pos {
+  transform: translateY(378px);
+}
+.particle__wrap:nth-of-type(161) .particle {
+  left: calc(30% + 236px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(162) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(162) .particle_pos {
+  transform: translateY(333px);
+}
+.particle__wrap:nth-of-type(162) .particle {
+  left: calc(30% + 301px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(163) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(163) .particle_pos {
+  transform: translateY(340px);
+}
+.particle__wrap:nth-of-type(163) .particle {
+  left: calc(30% + 424px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(164) .particle_rotate {
+  transform: rotateX(11deg);
+}
+.particle__wrap:nth-of-type(164) .particle_pos {
+  transform: translateY(290px);
+}
+.particle__wrap:nth-of-type(164) .particle {
+  left: calc(30% + 331px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(165) .particle_rotate {
+  transform: rotateX(34deg);
+}
+.particle__wrap:nth-of-type(165) .particle_pos {
+  transform: translateY(215px);
+}
+.particle__wrap:nth-of-type(165) .particle {
+  left: calc(30% + 419px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(166) .particle_rotate {
+  transform: rotateX(1deg);
+}
+.particle__wrap:nth-of-type(166) .particle_pos {
+  transform: translateY(210px);
+}
+.particle__wrap:nth-of-type(166) .particle {
+  left: calc(30% + 264px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(167) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(167) .particle_pos {
+  transform: translateY(236px);
+}
+.particle__wrap:nth-of-type(167) .particle {
+  left: calc(30% + 258px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(168) .particle_rotate {
+  transform: rotateX(8deg);
+}
+.particle__wrap:nth-of-type(168) .particle_pos {
+  transform: translateY(341px);
+}
+.particle__wrap:nth-of-type(168) .particle {
+  left: calc(30% + 248px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(169) .particle_rotate {
+  transform: rotateX(32deg);
+}
+.particle__wrap:nth-of-type(169) .particle_pos {
+  transform: translateY(308px);
+}
+.particle__wrap:nth-of-type(169) .particle {
+  left: calc(30% + 258px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(170) .particle_rotate {
+  transform: rotateX(36deg);
+}
+.particle__wrap:nth-of-type(170) .particle_pos {
+  transform: translateY(235px);
+}
+.particle__wrap:nth-of-type(170) .particle {
+  left: calc(30% + 385px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(171) .particle_rotate {
+  transform: rotateX(27deg);
+}
+.particle__wrap:nth-of-type(171) .particle_pos {
+  transform: translateY(243px);
+}
+.particle__wrap:nth-of-type(171) .particle {
+  left: calc(30% + 334px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(172) .particle_rotate {
+  transform: rotateX(27deg);
+}
+.particle__wrap:nth-of-type(172) .particle_pos {
+  transform: translateY(234px);
+}
+.particle__wrap:nth-of-type(172) .particle {
+  left: calc(30% + 432px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(173) .particle_rotate {
+  transform: rotateX(42deg);
+}
+.particle__wrap:nth-of-type(173) .particle_pos {
+  transform: translateY(378px);
+}
+.particle__wrap:nth-of-type(173) .particle {
+  left: calc(30% + 256px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(174) .particle_rotate {
+  transform: rotateX(27deg);
+}
+.particle__wrap:nth-of-type(174) .particle_pos {
+  transform: translateY(321px);
+}
+.particle__wrap:nth-of-type(174) .particle {
+  left: calc(30% + 291px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(175) .particle_rotate {
+  transform: rotateX(39deg);
+}
+.particle__wrap:nth-of-type(175) .particle_pos {
+  transform: translateY(270px);
+}
+.particle__wrap:nth-of-type(175) .particle {
+  left: calc(30% + 462px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(176) .particle_rotate {
+  transform: rotateX(7deg);
+}
+.particle__wrap:nth-of-type(176) .particle_pos {
+  transform: translateY(376px);
+}
+.particle__wrap:nth-of-type(176) .particle {
+  left: calc(30% + 464px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(177) .particle_rotate {
+  transform: rotateX(17deg);
+}
+.particle__wrap:nth-of-type(177) .particle_pos {
+  transform: translateY(318px);
+}
+.particle__wrap:nth-of-type(177) .particle {
+  left: calc(30% + 491px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(178) .particle_rotate {
+  transform: rotateX(24deg);
+}
+.particle__wrap:nth-of-type(178) .particle_pos {
+  transform: translateY(331px);
+}
+.particle__wrap:nth-of-type(178) .particle {
+  left: calc(30% + 294px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(179) .particle_rotate {
+  transform: rotateX(22deg);
+}
+.particle__wrap:nth-of-type(179) .particle_pos {
+  transform: translateY(305px);
+}
+.particle__wrap:nth-of-type(179) .particle {
+  left: calc(30% + 388px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(180) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(180) .particle_pos {
+  transform: translateY(338px);
+}
+.particle__wrap:nth-of-type(180) .particle {
+  left: calc(30% + 309px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(181) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(181) .particle_pos {
+  transform: translateY(213px);
+}
+.particle__wrap:nth-of-type(181) .particle {
+  left: calc(30% + 224px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(182) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(182) .particle_pos {
+  transform: translateY(195px);
+}
+.particle__wrap:nth-of-type(182) .particle {
+  left: calc(30% + 356px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(183) .particle_rotate {
+  transform: rotateX(15deg);
+}
+.particle__wrap:nth-of-type(183) .particle_pos {
+  transform: translateY(214px);
+}
+.particle__wrap:nth-of-type(183) .particle {
+  left: calc(30% + 217px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(184) .particle_rotate {
+  transform: rotateX(20deg);
+}
+.particle__wrap:nth-of-type(184) .particle_pos {
+  transform: translateY(299px);
+}
+.particle__wrap:nth-of-type(184) .particle {
+  left: calc(30% + 207px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(185) .particle_rotate {
+  transform: rotateX(38deg);
+}
+.particle__wrap:nth-of-type(185) .particle_pos {
+  transform: translateY(201px);
+}
+.particle__wrap:nth-of-type(185) .particle {
+  left: calc(30% + 345px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(186) .particle_rotate {
+  transform: rotateX(13deg);
+}
+.particle__wrap:nth-of-type(186) .particle_pos {
+  transform: translateY(278px);
+}
+.particle__wrap:nth-of-type(186) .particle {
+  left: calc(30% + 464px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(187) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(187) .particle_pos {
+  transform: translateY(230px);
+}
+.particle__wrap:nth-of-type(187) .particle {
+  left: calc(30% + 427px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(188) .particle_rotate {
+  transform: rotateX(25deg);
+}
+.particle__wrap:nth-of-type(188) .particle_pos {
+  transform: translateY(324px);
+}
+.particle__wrap:nth-of-type(188) .particle {
+  left: calc(30% + 377px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(189) .particle_rotate {
+  transform: rotateX(33deg);
+}
+.particle__wrap:nth-of-type(189) .particle_pos {
+  transform: translateY(247px);
+}
+.particle__wrap:nth-of-type(189) .particle {
+  left: calc(30% + 225px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(190) .particle_rotate {
+  transform: rotateX(6deg);
+}
+.particle__wrap:nth-of-type(190) .particle_pos {
+  transform: translateY(317px);
+}
+.particle__wrap:nth-of-type(190) .particle {
+  left: calc(30% + 349px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(191) .particle_rotate {
+  transform: rotateX(2deg);
+}
+.particle__wrap:nth-of-type(191) .particle_pos {
+  transform: translateY(309px);
+}
+.particle__wrap:nth-of-type(191) .particle {
+  left: calc(30% + 231px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(192) .particle_rotate {
+  transform: rotateX(43deg);
+}
+.particle__wrap:nth-of-type(192) .particle_pos {
+  transform: translateY(287px);
+}
+.particle__wrap:nth-of-type(192) .particle {
+  left: calc(30% + 220px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(193) .particle_rotate {
+  transform: rotateX(11deg);
+}
+.particle__wrap:nth-of-type(193) .particle_pos {
+  transform: translateY(288px);
+}
+.particle__wrap:nth-of-type(193) .particle {
+  left: calc(30% + 464px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(194) .particle_rotate {
+  transform: rotateX(29deg);
+}
+.particle__wrap:nth-of-type(194) .particle_pos {
+  transform: translateY(287px);
+}
+.particle__wrap:nth-of-type(194) .particle {
+  left: calc(30% + 310px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(195) .particle_rotate {
+  transform: rotateX(22deg);
+}
+.particle__wrap:nth-of-type(195) .particle_pos {
+  transform: translateY(328px);
+}
+.particle__wrap:nth-of-type(195) .particle {
+  left: calc(30% + 362px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(196) .particle_rotate {
+  transform: rotateX(40deg);
+}
+.particle__wrap:nth-of-type(196) .particle_pos {
+  transform: translateY(303px);
+}
+.particle__wrap:nth-of-type(196) .particle {
+  left: calc(30% + 283px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(197) .particle_rotate {
+  transform: rotateX(40deg);
+}
+.particle__wrap:nth-of-type(197) .particle_pos {
+  transform: translateY(187px);
+}
+.particle__wrap:nth-of-type(197) .particle {
+  left: calc(30% + 496px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(198) .particle_rotate {
+  transform: rotateX(16deg);
+}
+.particle__wrap:nth-of-type(198) .particle_pos {
+  transform: translateY(287px);
+}
+.particle__wrap:nth-of-type(198) .particle {
+  left: calc(30% + 399px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(199) .particle_rotate {
+  transform: rotateX(44deg);
+}
+.particle__wrap:nth-of-type(199) .particle_pos {
+  transform: translateY(289px);
+}
+.particle__wrap:nth-of-type(199) .particle {
+  left: calc(30% + 235px);
+}
+
+.particle__wrap {
+  position: absolute;
+}
+.particle__wrap:nth-of-type(200) .particle_rotate {
+  transform: rotateX(35deg);
+}
+.particle__wrap:nth-of-type(200) .particle_pos {
+  transform: translateY(277px);
+}
+.particle__wrap:nth-of-type(200) .particle {
+  left: calc(30% + 285px);
+}
+
+.particle__wrap:nth-of-type(1) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 16401ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(2) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 17715ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(3) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25731ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(4) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 26715ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(5) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 22034ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(6) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 9038ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(7) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 18733ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(8) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3513ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(9) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8348ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(10) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30430ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(11) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 17834ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(12) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12866ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(13) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3881ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(14) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15140ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(15) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 27263ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(16) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12254ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(17) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 32898ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(18) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 11145ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(19) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 18056ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(20) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 7617ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(21) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8689ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(22) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 17882ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(23) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 7762ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(24) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 26135ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(25) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8012ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(26) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 22469ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(27) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 6394ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(28) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 29830ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(29) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30340ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(30) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30149ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(31) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 28937ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(32) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 27198ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(33) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 11109ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(34) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 10957ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(35) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15532ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(36) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 28695ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(37) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 20273ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(38) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 26443ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(39) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 6980ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(40) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8369ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(41) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25983ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(42) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15588ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(43) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30197ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(44) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 29560ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(45) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 16513ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(46) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 32629ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(47) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 4025ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(48) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 23922ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(49) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 31655ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(50) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 13075ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(51) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3788ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(52) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25180ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(53) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 18938ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(54) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 21327ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(55) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 26511ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(56) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25901ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(57) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15846ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(58) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 13114ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(59) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8617ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(60) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 16691ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(61) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30320ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(62) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3378ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(63) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 13562ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(64) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8510ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(65) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3378ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(66) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 30203ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(67) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 6729ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(68) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 20637ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(69) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 10533ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(70) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 18640ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(71) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3684ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(72) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12090ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(73) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 4844ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(74) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25860ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(75) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12612ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(76) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 22198ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(77) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 17609ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(78) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 4086ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(79) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8292ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(80) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15316ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(81) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14696ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(82) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3841ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(83) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12140ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(84) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25234ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(85) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 27076ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(86) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 28798ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(87) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14152ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(88) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 23117ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(89) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14841ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(90) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14473ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(91) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 27863ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(92) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 6908ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(93) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 25112ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(94) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 22660ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(95) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 7199ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(96) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 9228ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(97) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3996ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(98) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 19116ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(99) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 22928ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(100) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 12261ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(101) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 15666ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(102) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 29123ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(103) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 19175ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(104) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8516ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(105) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3439ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(106) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 31045ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(107) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 7090ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(108) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 29424ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(109) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 20250ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(110) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 29450ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(111) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 28098ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(112) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14816ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(113) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 4873ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(114) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 24170ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(115) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 17965ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(116) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 14731ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(117) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 10630ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(118) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 31366ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(119) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 8644ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(120) .particle {
+  background-color: #eef2f9;
+  box-shadow: 0px 0px 10px 1px #eef2f9;
+  animation: rotate01 3643ms infinite;
+}
+@keyframes rotate01 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.8;
+  }
+  25% {
+    opacity: 0.6;
+  }
+  50% {
+    transform: rotateY(180deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.6;
+  }
+}
+
+.particle__wrap:nth-of-type(120) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 26246ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(121) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 30736ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(122) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 12116ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(123) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 17447ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(124) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 17114ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(125) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 28231ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(126) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 7927ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(127) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 7036ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(128) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 30614ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(129) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 23904ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(130) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 6280ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(131) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 9898ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(132) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 16481ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(133) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 17728ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(134) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 9201ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(135) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 23890ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(136) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 14968ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(137) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 12172ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(138) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 28393ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(139) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 6524ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(140) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 3903ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(141) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 23869ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(142) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 21197ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(143) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 19411ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(144) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5281ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(145) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 3405ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(146) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27534ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(147) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 22919ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(148) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 26940ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(149) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 4296ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(150) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 28648ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(151) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27623ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(152) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 20786ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(153) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5076ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(154) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 26153ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(155) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 7485ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(156) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 8233ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(157) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 28599ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(158) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 32358ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(159) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5104ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(160) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 9191ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(161) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5501ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(162) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 17993ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(163) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 3167ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(164) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 10789ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(165) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 11631ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(166) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 23006ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(167) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 18361ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(168) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 26371ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(169) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 24605ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(170) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 13593ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(171) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 22999ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(172) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 8604ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(173) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 32755ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(174) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 9638ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(175) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 9626ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(176) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 11781ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(177) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 10529ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(178) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5185ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(179) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 18872ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(180) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 21021ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(181) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 7972ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(182) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 12363ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(183) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 19324ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(184) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27618ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(185) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 3291ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(186) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 4488ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(187) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 5030ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(188) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 22949ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(189) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 25344ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(190) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 4925ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(191) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27409ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(192) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 11746ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(193) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27932ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(194) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 17801ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(195) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27135ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(196) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 27975ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(197) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 16135ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(198) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 16703ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(199) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 22200ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}
+
+.particle__wrap:nth-of-type(200) .particle {
+  background-color: #f9eed2;
+  animation: rotate02 12500ms infinite;
+}
+@keyframes rotate02 {
+  0% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(0);
+    opacity: 0.4;
+  }
+  25% {
+    opacity: 0.1;
+  }
+  50% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale3d(0.5, 0.5, 0.5) rotateY(180deg);
+    opacity: 0.1;
+  }
+}

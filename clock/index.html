@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="time"></div>
+    <script>
+        const t = document.getElementById('time')
+        function loop() {
+            const now = new Date()
+            const h = now.getHours().toString().padStart(2, '0')
+            const m = now.getMinutes().toString().padStart(2, '0')
+            const text = `${h}:${m}`
+            t.innerHTML = text
+        }
+        setInterval(loop(), 1000)
+    </script>
+</body>
+</html>

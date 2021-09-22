@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:700);
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-shadow: 0 0 1px #000, 0 0 2px #000;
+  background: #fff;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5em;
+  color: #333;
+  border-image-slice: 52 64 64 64 fill;
+  border-image-width: 20px 20px 20px 20px;
+  border-image-repeat: repeat repeat;
+  border-image-source: url("https://images.microcms-assets.io/assets/3fc51a71cb214fe8aac5bfc4b303d93a/3448d267652e4e37975ab5f782b4df40/window.png");
+  border-style: solid;
+}
+
+#log > div {
+  animation: fadeInRight 0.3s ease forwards, fadeOut 0.5s ease 200ms forwards;
+  -webkit-animation: fadeInRight 0.3s ease forwards,
+    fadeOut 0.5s ease 200ms forwards;
+}
+
+.colon {
+  display: none;
+}
+
+#log {
+  display: table;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 10px 10px;
+  width: 100%;
+  table-layout: fixed;
+}
+
+#log > div {
+  display: table-row;
+}
+
+#log > div.deleted {
+  visibility: hidden;
+}
+
+#log .emote {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 0.4em 0.2em;
+  position: relative;
+}
+
+#log .emote img {
+  display: inline-block;
+  height: 1em;
+  opacity: 0;
+}
+
+#log .message,
+#log .meta {
+  vertical-align: top;
+  display: table-cell;
+  padding-bottom: 0.1em;
+}
+
+#log .meta {
+  width: 35%;
+  text-align: right;
+  padding-right: 0.5em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#log .message {
+  word-wrap: break-word;
+  width: 65%;
+}
+
+.badge {
+  display: inline-block;
+  margin-right: 0.2em;
+  position: relative;
+  height: 1em;
+  vertical-align: middle;
+  top: -0.1em;
+}
+
+.name {
+  margin-left: 0.2em;
+}
